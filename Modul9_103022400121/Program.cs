@@ -129,5 +129,13 @@ internal class program
         {
             Console.WriteLine(" biaya transfer: " + totalBiaya );
         }
+        if (bank.config.lang == "en")
+        {
+            Console.WriteLine("transfer fee : " + jumlahTransfer + "\nAmount : " + biayaTransfer + "\nselect transfer mode : ");
+        }
+        else if (bank.config.lang == "id")
+        {
+            Console.WriteLine(" biaya transfer: " + jumlahTransfer + "\ntotal biaya : " + totalBiaya + "\npilih mode transfer : ");
+        }
     }
 }

@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Modul9_103022400121\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53307FB9-D0C7-4D82-B1EB-452F0710A043}|Modul9_103022400121\\Modul9_103022400121.csproj|d:\\modul9_103022400121\\modul9_103022400121\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53307FB9-D0C7-4D82-B1EB-452F0710A043}|Modul9_103022400121\\Modul9_103022400121.csproj|solutionrelative:modul9_103022400121\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01A46B69-DB2A-E530-7458-7E76342AAF7A}|Modul9_103022400121\\Modul9_103022400121.csproj|d:\\modul9_103022400121\\modul9_103022400121\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A46B69-DB2A-E530-7458-7E76342AAF7A}|Modul9_103022400121\\Modul9_103022400121.csproj|solutionrelative:modul9_103022400121\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A46B69-DB2A-E530-7458-7E76342AAF7A}|Modul9_103022400121\\Modul9_103022400121.csproj|d:\\modul9_103022400121\\modul9_103022400121\\jsconfig1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01A46B69-DB2A-E530-7458-7E76342AAF7A}|Modul9_103022400121\\Modul9_103022400121.csproj|solutionrelative:modul9_103022400121\\jsconfig1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "jsconfig1.json",
+              "DocumentMoniker": "D:\\Modul9_103022400121\\Modul9_103022400121\\jsconfig1.json",
+              "RelativeDocumentMoniker": "Modul9_103022400121\\jsconfig1.json",
+              "ToolTip": "D:\\Modul9_103022400121\\Modul9_103022400121\\jsconfig1.json",
+              "RelativeToolTip": "Modul9_103022400121\\jsconfig1.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-02T06:49:47.679Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Modul9_103022400121\\Program.cs",
               "ToolTip": "D:\\Modul9_103022400121\\Modul9_103022400121\\Program.cs",
               "RelativeToolTip": "Modul9_103022400121\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAUwIIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-02T06:42:41.138Z",
               "EditorCaption": ""
